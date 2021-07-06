@@ -1,0 +1,9 @@
+#welcome{
+    width:20px;
+    height:30px;
+}
+body{
+    text-align: center;
+    text-decoration-color: black;
+    background: linear-gradient(#fa1b1b 0%, #e7fa1b 100%)
+}
